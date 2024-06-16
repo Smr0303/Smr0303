@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, myself Samarjeet Mohite</h1>
-<h3 align="center">A Full Stack Blockchain Developer </h3>
+<h3 align="center">A Full Stack & Smart Contract Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smr0303&label=Profile%20views&color=0e75b6&style=flat" alt="smr0303" /> </p>
 
