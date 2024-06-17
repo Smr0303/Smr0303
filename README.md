@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🌱Currently focusing on blockchain technology and how it's vast application can shape the future<br><br>👯 Desirous of Blockchain intern positions to utilize technical knowledge and build on skills <br><br>🎅 I’m also focusing on Data structures and algorithms to enhance my probelm solving skills <br><br>📫 Reach me at samarmohite7@gmail.com
+🌱Building the future with blockchain (dApps & more!)  + Still love tinkering with web apps (JavaScript FTW!).<br><br>👯Sharpening my problem-solving skills with data structures and algorithms (because Santa is always learning too!). <br><br> 🤡 Now fascinated by distributed systems and Operating Systems!  Looking forward to Learn Golang to dive deeper <br><br>🎅 Always excited to learn and collaborate <br><br>👯 Know more about me  [here](https://samarjeet-portfolio.vercel.app/)<br><br>📫 Hit me up at: samarmohite7@gmail.com
 
 # Connect with me
 <p align="left">
