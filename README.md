@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, myself Samarjeet Mohite</h1>
-<h3 align="center">A Full Stack & Smart Contract Developer </h3>
+![ALT](https://github.com/Smr0303/Smr0303/blob/1bb6cb5254f47803635947db56454c38aeae0a76/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
+
+<h1 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smr0303&label=Profile%20views&color=0e75b6&style=flat" alt="smr0303" /> </p>
 
@@ -9,7 +10,7 @@
 
 
 # 💫 About Me:
-🌱Building the future with blockchain (dApps & more!)  + Still love tinkering with web apps (JavaScript FTW!).<br><br>👯Sharpening my problem-solving skills with data structures and algorithms (because Santa is always learning too!). <br><br> 🤡 Now fascinated by distributed systems and Operating Systems!  Looking forward to Learn Golang to dive deeper <br><br>🎅 Always excited to learn and collaborate <br><br>👯 Know more about me  [here](https://samarjeet-portfolio.vercel.app/)<br><br>📫 Hit me up at: samarmohite7@gmail.com
+😎 Hi 👋, myself Samarjeet Mohite,A Full Stack & Smart Contract Developer. <br><br>🌱Building the future with blockchain (dApps & more!)  + Still love tinkering with web apps (JavaScript FTW!).<br><br>👯Sharpening my problem-solving skills with data structures and algorithms (because Santa is always learning too!). <br><br> 🤡 Now fascinated by distributed systems and Operating Systems!  Looking forward to Learn Golang to dive deeper <br><br>🎅 Always excited to learn and collaborate <br><br>👯 Know more about me  [here](https://samarjeet-portfolio.vercel.app/)<br><br>📫 Hit me up at: samarmohite7@gmail.com
 
 # Connect with me
 <p align="left">
