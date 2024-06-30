@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-😎 Hi 👋, myself Samarjeet Mohite,A Full Stack & Smart Contract Developer. <br><br>🌱Building the future with blockchain (dApps & more!)  + Still love tinkering with web apps (JavaScript FTW!).<br><br>👯Sharpening my problem-solving skills with data structures and algorithms (because Santa is always learning too!). <br><br> 🤡 Now fascinated by distributed systems and Operating Systems!  Looking forward to Learn Golang to dive deeper <br><br>🎅 Always excited to learn and collaborate <br><br>👯 Know more about me  [here](https://samarjeet-portfolio.vercel.app/)<br><br>📫 Hit me up at: samarmohite7@gmail.com
+😎 Hi 👋, myself Samarjeet Mohite,A Full Stack & Smart Contract Developer. <br><br>🌱Building the future with blockchain (dApps & more!)  + Still love tinkering with web apps (JavaScript FTW!).<br><br>👯Sharpening my problem-solving skills with data structures and algorithms (because Santa is always learning too!). <br><br> 🤡 Now fascinated by Core System Development!  Looking forward to Learn Golang to dive deeper <br><br>🎅 Always excited to learn and collaborate <br><br>👯 Know more about me  [here](https://samarjeet-portfolio.vercel.app/)<br><br>📫 Hit me up at: samarmohite7@gmail.com
 
 # Connect with me
 <p align="left">
